@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\opnj0\Desktop\Practice10_27\Practice10_27\main.cpp(142): warning C4091: 'virtual ': 変数が何も宣言されていないときは、'Vehicle::SpeedUp' の左辺を無視します。
+C:\Users\opnj0\Desktop\Practice10_27\Practice10_27\main.cpp(191): warning C4091: 'virtual ': 変数が何も宣言されていないときは、'Car::SpeedUp' の左辺を無視します。
+  Practice10_27.vcxproj -> C:\Users\opnj0\Desktop\Practice10_27\Debug\Practice10_27.exe
